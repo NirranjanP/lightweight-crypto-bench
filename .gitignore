@@ -1,0 +1,7 @@
+# Exclude node_modules from the root or any subfolder
+node_modules/
+crypto_core/aes_bin.exe
+crypto_core/ascon_bin.exe
+crypto_core/present_bin.exe
+crypto_core/s.exe
+crypto_core/speck_bin.exe
